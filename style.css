@@ -106,7 +106,7 @@ footer p {
 /* -------  Elements ------- */
 
 img, iframe {
-  width: 40%;
+  width: 100%;
   border-radius: 50px;
   border: 3px solid #f5f5f5;
 }
